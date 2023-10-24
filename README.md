@@ -18,7 +18,7 @@
   - Stream-in Xn. The rate is depending on the FIR processing speed. Use axi-stream valid/ready for flow control
   - Stream out Yn, the output rate depends on FIR processing speed
 ## Waveform
-## 1. Coefficient in
+## 1. Coefficient
 
 
 ![image](https://github.com/shaokai229/SoC_lab3/blob/main/Waveform/tap_coef_readandwrite.JPG)
